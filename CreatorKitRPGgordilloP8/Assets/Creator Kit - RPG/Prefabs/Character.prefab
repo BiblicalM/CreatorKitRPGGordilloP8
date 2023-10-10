@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83c8d37d500664cd589dc84f2feadcf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 30
+  speed: 35
   acceleration: 0.1
   nextMoveCommand: {x: 0, y: 0, z: 0}
   animator: {fileID: 8171158353334016010}
